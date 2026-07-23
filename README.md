@@ -19,3 +19,19 @@ Além do desenvolvimento de aplicações, mantenho interesse constante em concei
 
 🚀 Meu objetivo é atuar como **Desenvolvedor de Software**, participando da criação, evolução e manutenção de aplicações que entreguem soluções tecnológicas capazes de otimizar processos, melhorar a experiência dos usuários e gerar valor para pessoas e organizações.
 
+## 🛠️ Technologies & Tools
+
+### 💻 Frontend & Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,py" />
+</p>
+
+### ⚙️ Backend, Mobile & Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,react,postgres,mysql,prisma,expo" />
+</p>
+
+### 🔧 Tools & Methodologies
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,gcp,npm" />
+</p>
